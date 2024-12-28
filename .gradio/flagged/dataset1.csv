@@ -1,0 +1,2 @@
+Temperature (°C),Humidity (%),Windspeed (km/h),"Season (1: Spring, 2: Summer, 3: Fall, 4: Winter)",Year,Month,"Day of Week (0: Monday, 6: Sunday)",Is Holiday?,output,timestamp
+'-10,0,0,1,2011,1,0,false,0,2024-12-28 05:24:25.036688

@@ -1,0 +1,21 @@
+      <th>season</th>
+      <th>hr</th>
+      <th>holiday</th>
+      <th>windspeed</th>
+      <th>workingday</th>
+      <th>weathersit</th>
+      <th>temp</th>
+      <th>atemp</th>
+      <th>hum</th>
+      <th>yr</th>
+      <th>mnth</th>
+      <th>weekday_Fri</th>
+      <th>weekday_Mon</th>
+      <th>weekday_Sat</th>
+      <th>weekday_Sun</th>
+      <th>weekday_Thu</th>
+      <th>weekday_Tue</th>
+      <th>weekday_Wed</th>
+    
+
+    
